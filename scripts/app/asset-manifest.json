@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/scripts/app/static/css/main.2ebad36e.css",
+    "main.js": "/scripts/app/static/js/main.21f965c0.js",
+    "static/media/Gellix-SemiBold_R.otf": "/scripts/app/static/media/Gellix-SemiBold_R.e0484ff56a556ba4b6ff.otf",
+    "static/media/Gellix-Light_R.otf": "/scripts/app/static/media/Gellix-Light_R.fdb4952e0f43cd6f8164.otf",
+    "static/media/Gellix-Regular_R.otf": "/scripts/app/static/media/Gellix-Regular_R.e5255acc7dd76c9306cb.otf",
+    "static/media/Gellix-SemiBold_R.woff2": "/scripts/app/static/media/Gellix-SemiBold_R.a825f65864d251d1e2ca.woff2",
+    "static/media/Gellix-Light_R.woff2": "/scripts/app/static/media/Gellix-Light_R.106e862c78372f2d6106.woff2",
+    "static/media/Gellix-Regular_R.woff2": "/scripts/app/static/media/Gellix-Regular_R.bd96edd9848f4860525a.woff2",
+    "index.html": "/scripts/app/index.html",
+    "main.2ebad36e.css.map": "/scripts/app/static/css/main.2ebad36e.css.map",
+    "main.21f965c0.js.map": "/scripts/app/static/js/main.21f965c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ebad36e.css",
+    "static/js/main.21f965c0.js"
+  ]
+}
